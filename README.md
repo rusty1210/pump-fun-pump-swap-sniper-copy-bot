@@ -1,7 +1,7 @@
-# Solana PumpFun/PumpSwap Copy Trading Bot  [📞Contact me](https://t.me/deniyuda348)
+# Solana PumpFun/PumpSwap Copy Trading Bot  [📞Contact me](https://t.me/solrusty1210) rusty.engineer.1210@G
 ## Overview
 Pump Fun, Pump Swap  raydium Copy Sniper Bot. Use ZeroSlot, Nozomi, NextBlock, AdvanceNone ( offchain signing )
-https://github.com/deniyuda348/pump-fun-pump-swap-sniper-copy-bot/wiki
+https://github.com/rusty1210/pump-fun-pump-swap-sniper-copy-bot
 # Features:
 
 - **Real-time Transaction Monitoring** - Uses Yellowstone gRPC to monitor transactions with minimal latency and high reliability
